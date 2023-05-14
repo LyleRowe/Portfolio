@@ -27,7 +27,7 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  Blockchain and Web3.
                 </b>
               </i>
               <br />
@@ -61,7 +61,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/lylerowe"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
